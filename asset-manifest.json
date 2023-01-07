@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Serg-droid/ReactTutorial/static/css/main.b5d4bc7b.css",
+    "main.js": "/Serg-droid/ReactTutorial/static/js/main.55cf9bdb.js",
+    "index.html": "/Serg-droid/ReactTutorial/index.html",
+    "main.b5d4bc7b.css.map": "/Serg-droid/ReactTutorial/static/css/main.b5d4bc7b.css.map",
+    "main.55cf9bdb.js.map": "/Serg-droid/ReactTutorial/static/js/main.55cf9bdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5d4bc7b.css",
+    "static/js/main.55cf9bdb.js"
+  ]
+}
